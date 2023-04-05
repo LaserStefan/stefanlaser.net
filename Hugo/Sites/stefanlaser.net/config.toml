@@ -1,0 +1,99 @@
+baseurl = "https://stefanlaser.net"
+title = "Academic portfolio"
+theme = "hugo-creative-portfolio-theme"
+languageCode = "en-uk"
+# Enable comments by entering your Disqus shortname
+# disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+# googleAnalytics = ""
+
+[params]
+
+defaultContentLanguage = 'en'
+
+#defaultContentLanguageInSubdir = true
+
+  # Style options: default (pink), blue, green, pink, red, sea, violet
+  # Use custom.css for your custom styling
+  style = "sea"
+  description = "Academic portfolio"
+  copyright = "&copy;2022"
+
+
+  # Contact page
+     # Since this template is static, the contact form uses www.formspree.io as a
+     # proxy. The form makes a POST request to their servers to send the actual
+     # email. Visitors can send up to a 1000 emails each month for free.
+     #
+     # What you need to do for the setup?
+     #
+     # - set your email address under 'email' below
+     # - upload the generated site to your server
+     # - send a dummy email yourself to confirm your account
+     # - click the confirm link in the email from www.formspree.io
+     # - you're done. Happy mailing!
+  email = "stefan.laser@ruhr-uni-bochum.de"
+
+    # Optional Matomo analytics (formerly piwik)
+      [params.analytics.matomo]
+      # [params.analytics.analytics]
+      #  URL = "https://stats.example.com"
+      #  ID = "42"
+      #  # Track all subdomains with "*.example.com" (Optional)
+      #  domain = "www.example.com"
+      #  # Optional integrity check hash
+      #  hash = ""
+
+  # Nav links in the side bar
+  [[params.navlinks]]
+  name = "Portfolio"
+  url = "portfolio/"
+  home = true
+
+  [[params.navlinks]]
+  name = "CV"
+  url = "about/cv.html"
+
+  [[params.navlinks]]
+  name = "Legal"
+  url = "legal/"
+
+
+
+  #[[params.navlinks]]
+  #name = "Get in touch"
+  #url = "contact/"
+DefaultContentLanguage = "en"
+  [languages]
+    [languages.en]
+      baseURL = 'https://stefanlaser.net/'
+      languageName = 'EN'
+      title = 'Stefan Laser'
+      weight = 2
+      languageFlag = "🇬🇧"
+      sidebarAbout = [
+        "I am a sociologist with a soft spot for interdisciplinary problems. I contribute to Science and Technology Studies and publish on waste, energy, trains and meat. I am part of the newly established collaborative research centre 'Virtual Living Realities'",
+        "My main theme right now is data centres: their local arrangement, building procedures, and global production networks enabling its operation.",
+        "Currently based in Bochum, living in Erfurt. Soon moving to and working from Hanoi, Vietnam."
+      ]
+
+
+
+    [languages.de]
+      baseURL = 'https://stefanlaser.net/de'
+      languageName = 'DE'
+      title = 'Stefan Laser'
+      weight = 1
+      languageFlag = "🇩🇪"
+      sidebarAbout = [
+        "Ich bin Soziologe mit einem Faible für interdisziplinäre Fragestellungen. Ich knüpfe an die Science & Technology Studies an und schreibe zu E-Schrott, Energie, Zügen und Fleisch. Ich bin Teil des neuen Bochumer SFBs 'Virtuelle Lebenswelten'",
+        "Mein Hauptforschungsinteresse liegt zur Zeit auf Datenzentren: ihrer lokalen Ausrichtung, Erbauung, und globalen Produktionsnetzwerken.",
+        "Aktuell arbeite ich in Bochum und lebe in Erfurt. Bald ziehe ich zum Wohnen und Arbeiten nach Hanoi, Vietnam."
+      ]
+
+
+
+  [params.social]
+  email         = "stefan.laser@ruhr-uni-bochum.de"
+  twitter       = "https://twitter.com/stefan_laser_"
+  github        = "https://github.com/LaserStefan"
