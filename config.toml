@@ -6,7 +6,7 @@ languageCode = "en-uk"
 
 [params]
 
-#defaultContentLanguage = 'en'
+defaultContentLanguage = 'en'
 
 #defaultContentLanguageInSubdir = true
 
@@ -63,7 +63,7 @@ languageCode = "en-uk"
 
   [languages]
     [languages.en]
-      baseURL = 'https://stefanlaser.net/en'
+      baseURL = 'https://stefanlaser.net'
       languageName = 'en'
       title = 'Stefan Laser'
       weight = 1
