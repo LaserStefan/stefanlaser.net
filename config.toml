@@ -29,10 +29,10 @@ defaultContentLanguageInSubdir = true
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "stefan.laser@ruhr-uni-bochum.de"
+ # email = "stefan.laser@ruhr-uni-bochum.de"
 
     # Optional Matomo analytics (formerly piwik)
-      [params.analytics.matomo]
+      # [params.analytics.matomo]
       # [params.analytics.analytics]
       #  URL = "https://stats.example.com"
       #  ID = "42"
