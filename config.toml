@@ -1,4 +1,4 @@
-baseurl = "https://stefanlaser.net"
+baseurl = "https://stefanlaser.net/en"
 title = "Academic portfolio"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-uk"
@@ -6,9 +6,9 @@ languageCode = "en-uk"
 
 [params]
 
-#defaultContentLanguage = 'en'
+defaultContentLanguage = 'en'
 
-#defaultContentLanguageInSubdir = false
+defaultContentLanguageInSubdir = true
 
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
