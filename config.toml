@@ -63,7 +63,7 @@ defaultContentLanguage = 'en'
 
   [languages]
     [languages.en]
-      baseURL = 'https://stefanlaser.net'
+      baseURL = 'https://stefanlaser.net/en'
       languageName = 'en'
       title = 'Stefan Laser'
       weight = 2
