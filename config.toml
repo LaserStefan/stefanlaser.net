@@ -17,7 +17,7 @@ defaultContentLanguage = 'en'
   # Use custom.css for your custom styling
   style = "sea"
   description = "Academic portfolio"
-  copyright = "&copy;2022"
+  copyright = "&copy;202§"
 
 
   # Contact page
@@ -72,7 +72,7 @@ DefaultContentLanguage = "en"
       weight = 2
       languageFlag = "🇬🇧"
       sidebarAbout = [
-        "I am a sociologist with a soft spot for interdisciplinary problems. I contribute to Science and Technology Studies and publish on waste, energy, trains and meat. I am part of the newly established collaborative research centre 'Virtual Living Realities'",
+        "I am a sociologist interested in interdisciplinary and international collaboration. I contribute to Science and Technology Studies and publish on waste, energy, trains and meat. I am part of the newly established collaborative research centre 'Virtual Living Realities'",
         "My main theme right now is data centres: their local arrangement, building procedures, and global production networks enabling its operation.",
         "Currently based in Bochum, living in Erfurt. Working from Hanoi, Vietnam."
       ]
@@ -86,9 +86,9 @@ DefaultContentLanguage = "en"
       weight = 1
       languageFlag = "🇩🇪"
       sidebarAbout = [
-        "Ich bin Soziologe mit einem Faible für interdisziplinäre Fragestellungen. Ich knüpfe an die Science & Technology Studies an und schreibe zu E-Schrott, Energie, Zügen und Fleisch. Ich bin Teil des neuen Bochumer SFBs 'Virtuelle Lebenswelten'",
+        "Ich bin Soziologe mit einem Faible für interdisziplinäre und internationale Problemstellungen. Ich knüpfe an die Science & Technology Studies an und schreibe zu E-Schrott, Energie, Zügen und Fleisch. Ich bin Teil des neuen Bochumer SFBs 'Virtuelle Lebenswelten'",
         "Mein Hauptforschungsinteresse liegt zur Zeit auf Datenzentren: ihrer lokalen Ausrichtung, Erbauung, und globalen Produktionsnetzwerken.",
-        "Aktuell arbeite ich in Bochum und lebe in Erfurt. Bald ziehe ich zum Wohnen und Arbeiten nach Hanoi, Vietnam."
+        "Aktuell arbeite ich in Bochum und lebe in Erfurt. Ich forsche und lebe aktuell in Hanoi, Vietnam."
       ]
 
 

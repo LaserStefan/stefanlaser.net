@@ -42,7 +42,7 @@ jobs:
         run: |
           hugo \
             --gc \
-            --minify
+            --fingerprint #--minify
 
       # We save the result as an artificat so we can use it in the next job
       - name: Upload artifact
