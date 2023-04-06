@@ -11,7 +11,7 @@ languageCode = "en-uk"
 
 defaultContentLanguage = 'en'
 
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
 
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
