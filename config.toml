@@ -9,9 +9,9 @@ languageCode = "en-uk"
 
 [params]
 
-defaultContentLanguage = 'en'
+defaultContentLanguage = 'EN'
 
-#defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = true
 
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
