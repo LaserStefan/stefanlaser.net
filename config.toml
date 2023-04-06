@@ -1,4 +1,4 @@
-baseurl = "https://stefanlaser.net/en"
+baseurl = "https://stefanlaser.net"
 title = "Academic portfolio"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-uk"
