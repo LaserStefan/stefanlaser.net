@@ -6,7 +6,7 @@ languageCode = "en-uk"
 
 [params]
 
-defaultContentLanguage = 'en'
+#defaultContentLanguage = 'EN'
 
 #defaultContentLanguageInSubdir = true
 
@@ -64,9 +64,9 @@ defaultContentLanguage = 'en'
   [languages]
     [languages.en]
       baseURL = 'https://stefanlaser.net/en'
-      languageName = 'en'
+      languageName = 'EN'
       title = 'Stefan Laser'
-      weight = 2
+      weight = 1
       languageFlag = "🇬🇧"
       sidebarAbout = [
         "I am a sociologist interested in interdisciplinary and international collaboration. I contribute to Science and Technology Studies and publish on waste, energy, trains and meat. I am part of the newly established collaborative research centre 'Virtual Living Realities'",
@@ -80,7 +80,7 @@ defaultContentLanguage = 'en'
       baseURL = 'https://stefanlaser.net/de'
       languageName = 'DE'
       title = 'Stefan Laser'
-      weight = 1
+      weight = 2
       languageFlag = "🇩🇪"
       sidebarAbout = [
         "Ich bin Soziologe mit einem Faible für interdisziplinäre und internationale Problemstellungen. Ich knüpfe an die Science & Technology Studies an und schreibe zu E-Schrott, Energie, Zügen und Fleisch. Ich bin Teil des neuen Bochumer SFBs 'Virtuelle Lebenswelten'",
