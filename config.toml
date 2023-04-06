@@ -42,16 +42,28 @@ defaultContentLanguage = 'en'
       #  hash = ""
 
 
+  # Nav links in the side bar
+  [[params.navlinks]]
+  name = "Portfolio"
+  url = "portfolio/"
+  home = true
 
+  [[params.navlinks]]
+  name = "CV"
+  url = "about/cv.html"
+
+  [[params.navlinks]]
+  name = "Legal"
+  url = "legal/"
 
 
   #[[params.navlinks]]
   #name = "Get in touch"
   #url = "contact/"
-DefaultContentLanguage = "en"
+
   [languages]
     [languages.en]
-      baseURL = 'https://stefanlaser.net/en'
+      baseURL = 'https://stefanlaser.net'
       languageName = 'en'
       title = 'Stefan Laser'
       weight = 2
@@ -76,19 +88,7 @@ DefaultContentLanguage = "en"
         "Aktuell arbeite ich in Bochum und lebe in Erfurt. Ich forsche und lebe aktuell in Hanoi, Vietnam."
       ]
 
-  # Nav links in the side bar
-  [[params.navlinks]]
-  name = "Portfolio"
-  url = "portfolio/"
-  home = true
 
-  [[params.navlinks]]
-  name = "CV"
-  url = "about/cv.html"
-
-  [[params.navlinks]]
-  name = "Legal"
-  url = "legal/"
 
   [params.social]
   email         = "stefan.laser@ruhr-uni-bochum.de"
