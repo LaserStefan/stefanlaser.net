@@ -17,7 +17,7 @@ defaultContentLanguage = 'en'
   # Use custom.css for your custom styling
   style = "sea"
   description = "Academic portfolio"
-  copyright = "&copy;202§"
+  copyright = "&copy;2023"
 
 
   # Contact page
