@@ -80,4 +80,4 @@ jobs:
           server-dir: 'Sites/stefanlaser.net/'
           protocol: ftps
           # remote_path: '/home/m2358/Sites/stefanlaser.net/' # This will depend on your server
-          local_dir: './public/*' # This is the path where the artifact is located
+          local_dir: '/public/' # This is the path where the artifact is located
