@@ -77,5 +77,5 @@ jobs:
           sftp_only: true
           password: ${{ secrets.ftp_password }}
           port: ${{ vars.ftp_port }}
-          remote_path: '/Sites/stefanlaser.net' # This will depend on your server
+          remote_path: '/home/m2358/Sites/stefanlaser.net' # This will depend on your server
           local_path: './public/*' # This is the path where the artifact is located
