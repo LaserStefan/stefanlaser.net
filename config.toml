@@ -8,7 +8,7 @@ languageCode = "en-uk"
 
 defaultContentLanguage = 'en'
 
-defaultContentLanguageInSubdir = true
+#defaultContentLanguageInSubdir = true
 
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
@@ -63,7 +63,7 @@ defaultContentLanguageInSubdir = true
 
   [languages]
     [languages.en]
-      baseURL = 'https://stefanlaser.net/en'
+      baseURL = 'https://stefanlaser.net'
       languageName = 'en'
       title = 'Stefan Laser'
       weight = 1
@@ -78,7 +78,7 @@ defaultContentLanguageInSubdir = true
 
     [languages.de]
       baseURL = 'https://stefanlaser.net/de'
-      languageName = 'DE'
+      languageName = 'de'
       title = 'Stefan Laser'
       weight = 2
       languageFlag = "🇩🇪"
