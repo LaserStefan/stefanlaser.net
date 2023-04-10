@@ -1,4 +1,4 @@
-baseurl = "https://stefanlaser.net"
+baseurl = "https://stefanlaser.net/"
 title = "Academic portfolio"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-uk"
@@ -63,7 +63,7 @@ defaultContentLanguageInSubdir = true
 
   [languages]
     [languages.en]
-      baseURL = 'https://stefanlaser.net'
+      baseURL = 'https://stefanlaser.net/en'
       languageName = 'en'
       title = 'Stefan Laser'
       weight = 1
