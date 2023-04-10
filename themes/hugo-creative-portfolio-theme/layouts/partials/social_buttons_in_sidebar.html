@@ -54,4 +54,8 @@
     <i class="fa fa-whatsapp"></i>
   </a>
   {{end}}
+  {{ with .Site.Params.social.mastodon }}
+  <a href="{{ . }}" data-animate-hover="pulse" class="external" title="Mastodon">
+    <i class="fa-brands fa-mastodon">
+  </a>
 </p>

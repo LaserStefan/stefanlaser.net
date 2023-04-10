@@ -8,7 +8,7 @@ languageCode = "en-uk"
 
 defaultContentLanguage = 'en'
 
-#defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = true
 
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
@@ -71,7 +71,7 @@ defaultContentLanguage = 'en'
       sidebarAbout = [
         "I am a sociologist interested in interdisciplinary and international collaboration. I contribute to Science and Technology Studies and publish on waste, energy, trains and meat. I am part of the newly established collaborative research centre 'Virtual Living Realities'",
         "My main theme right now is data centres: their local arrangement, building procedures, and global production networks enabling its operation.",
-        "Currently based in Bochum, living in Erfurt. Working from Hanoi, Vietnam."
+        "Currently based in Bochum. Working from Hanoi, Vietnam."
       ]
 
 
@@ -94,3 +94,5 @@ defaultContentLanguage = 'en'
   email         = "stefan.laser@ruhr-uni-bochum.de"
   twitter       = "https://twitter.com/stefan_laser_"
   github        = "https://github.com/LaserStefan"
+  mastodon      = "https://social.tchncs.de/@stefanlaser"
+
