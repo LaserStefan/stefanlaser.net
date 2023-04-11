@@ -8,38 +8,13 @@ languageCode = "en-uk"
 
 defaultContentLanguage = 'en'
 
-defaultContentLanguageInSubdir = true
+#defaultContentLanguageInSubdir = true
 
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "sea"
   description = "Academic portfolio"
   copyright = "&copy;2023"
-
-
-  # Contact page
-     # Since this template is static, the contact form uses www.formspree.io as a
-     # proxy. The form makes a POST request to their servers to send the actual
-     # email. Visitors can send up to a 1000 emails each month for free.
-     #
-     # What you need to do for the setup?
-     #
-     # - set your email address under 'email' below
-     # - upload the generated site to your server
-     # - send a dummy email yourself to confirm your account
-     # - click the confirm link in the email from www.formspree.io
-     # - you're done. Happy mailing!
- # email = "stefan.laser@ruhr-uni-bochum.de"
-
-    # Optional Matomo analytics (formerly piwik)
-      # [params.analytics.matomo]
-      # [params.analytics.analytics]
-      #  URL = "https://stats.example.com"
-      #  ID = "42"
-      #  # Track all subdomains with "*.example.com" (Optional)
-      #  domain = "www.example.com"
-      #  # Optional integrity check hash
-      #  hash = ""
 
 
   # Nav links in the side bar
@@ -63,7 +38,7 @@ defaultContentLanguageInSubdir = true
 
   [languages]
     [languages.en]
-      baseURL = 'https://stefanlaser.net/en'
+      baseURL = 'https://stefanlaser.net'
       languageName = 'en'
       title = 'Stefan Laser'
       weight = 1
@@ -71,7 +46,8 @@ defaultContentLanguageInSubdir = true
       sidebarAbout = [
         "I am a sociologist interested in interdisciplinary and international collaboration. I contribute to Science and Technology Studies and publish on waste, energy, trains and meat. I am part of the newly established collaborative research centre 'Virtual Living Realities'",
         "My main theme right now is data centres: their local arrangement, building procedures, and global production networks enabling its operation.",
-        "Currently based in Bochum. Working from Hanoi, Vietnam."
+        "Currently based in Bochum. Working from Hanoi, Vietnam.",
+        "Feel free to drop an e-mail or DM me."
       ]
 
 
@@ -92,6 +68,7 @@ defaultContentLanguageInSubdir = true
 
   [params.social]
   email         = "stefan.laser@ruhr-uni-bochum.de"
+  website       = "https://www.sfb1567.ruhr-uni-bochum.de/early-career-forum/xx-5"
   twitter       = "https://twitter.com/stefan_laser_"
   github        = "https://github.com/LaserStefan"
   mastodon      = "https://social.tchncs.de/@stefanlaser"
