@@ -69,6 +69,7 @@ defaultContentLanguage = 'en'
   [params.social]
   email         = "stefan.laser@ruhr-uni-bochum.de"
   website       = "https://www.sfb1567.ruhr-uni-bochum.de/early-career-forum/xx-5"
+  website       = "https://www.sowi.ruhr-uni-bochum.de/cupak/team/laser.html.en"
   twitter       = "https://twitter.com/stefan_laser_"
   github        = "https://github.com/LaserStefan"
   mastodon      = "https://social.tchncs.de/@stefanlaser"
