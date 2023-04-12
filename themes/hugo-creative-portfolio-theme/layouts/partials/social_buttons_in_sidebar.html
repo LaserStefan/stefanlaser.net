@@ -64,4 +64,9 @@
     <i class="fa-solid fa-building-columns"></i>
   </a>
   {{end}}
+      {{ with .Site.Params.social.website2 }}
+  <a href="{{ . }}" data-animate-hover="pulse" class="external" title="Website">
+    <i class="fa-solid fa-industry"></i>
+  </a>
+  {{end}}
 </p>

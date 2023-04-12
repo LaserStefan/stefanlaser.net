@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/streamgraph.png"
+image = "img/portfolio/streamgraph.jpg"
 showonlyimage = true
 title = "Coding"
 weight = 4
