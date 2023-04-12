@@ -4,18 +4,29 @@
 {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="{{ "css/bootstrap.min.css" | absURL }}">
-<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:400,300,700,400italic">
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:400,300,700,400italic" media="print" onload="this.media='all'">
+<noscript>
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:400,300,700,400italic">
+</noscript>
 <script src="https://kit.fontawesome.com/0a75c4d7c0.js" crossorigin="anonymous"></script>
 
 <!-- <link rel="stylesheet" href="{{ "css/font-awesome.min.css" | absURL }}"> -->
 
-<link rel="stylesheet" href="{{ "css/owl.carousel.css" | absURL }}">
-<link rel="stylesheet" href="{{ "css/owl.theme.css" | absURL }}">
+<link rel="stylesheet" href="{{ "css/owl.carousel.css" | absURL }}" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="{{ "css/owl.theme.css" | absURL }}" media="print" onload="this.media='all'">
 <!-- Theme stylesheet, if possible do not edit this stylesheet -->
 {{ with .Site.Params.style }}
-  <link href="{{ printf "css/style.%s.css" . | absURL }}" rel="stylesheet" id="theme-stylesheet">
+  <link href="{{ printf "css/style.%s.css" . | absURL }}" rel="stylesheet" id="theme-stylesheet" media="print" onload="this.media='all'">
+<noscript>
+<link href="{{ printf "css/style.%s.css" . | absURL }}" rel="stylesheet" id="theme-stylesheet">
+</noscript>
+  
 {{ else }}
-  <link href="{{ "css/style.default.css" | absURL }}" rel="stylesheet" id="theme-stylesheet">
+  <link href="{{ "css/style.default.css" | absURL }}" rel="stylesheet" id="theme-stylesheet" media="print" onload="this.media='all'">
+<noscript>
+<link href="{{ "css/style.default.css" | absURL }}" rel="stylesheet" id="theme-stylesheet">
+</noscript>
+
 {{ end }}
  <!-- Responsivity for older IE -->
 <!-- Just in case -->
@@ -36,7 +47,7 @@
 
 <!-- VISA Tracking Code for stefanlaser.net <script>(function(v,i,s,a,t){v[t]=v[t]||function(){(v[t].v=v[t].v||[]).push(arguments)};if(!v._visaSettings){v._visaSettings={}}v._visaSettings[a]={v:'1.0',s:a,a:'1',t:t};var b=i.getElementsByTagName('body')[0];var p=i.createElement('script');p.defer=1;p.async=1;p.src=s+'?s='+a;b.appendChild(p)})(window,document,'//app-worker.visitor-analytics.io/main.js','11efb4a0-4096-11ed-b589-901b0edac50a','va')</script>
 VISA Tracking Code for stefanlaser.net -->
-<!-- Matomo -->
+<!-- Matomo 
 <script>
   var _paq = window._paq = window._paq || [];
   /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
@@ -50,4 +61,4 @@ VISA Tracking Code for stefanlaser.net -->
     g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
   })();
 </script>
-<!-- End Matomo Code -->
+End Matomo Code -->
