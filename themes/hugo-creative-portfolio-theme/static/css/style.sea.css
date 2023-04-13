@@ -917,7 +917,7 @@ a:active {
   position: relative;
   min-height: 100px;
   background: #ccc;
-  width: 262px
+  /*width: 262px*/
 }
 .box-masonry .box-masonry-image.with-hover-overlay:before {
   display: block;
