@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/artenübergreifende.jpg"
+image = "img/portfolio/artenübergreifende.jpg?w=262&f=webp" 
 showonlyimage = false
 title = "Fürsorge"
 weight = 1
@@ -16,18 +16,18 @@ Grundlage des Buchs ist eine Kooperation mit Student_innen. Auf einen exzellente
 ## Der Zugang
 Wir schauen auf 5 Zeitungsmedien und Twitterdaten zu #Tönnies und #Nerz, um artenübergreifende Fürsorge aus dem Material herzulleiten, als öffentlichen Belang. So sieht man etwa auf Twitter: die Fälle versammeln heterogene Themen und Akteure, siehe das Bsp. von Tönnies.
 
-![Tönnies1](/abb5_kap4_A1.png)
-![Tönnies2](/abb13_kap5_A1.png)
+<img src="abb5_kap4_A1.png" width="450">
+<img src="bb13_kap5_A1.png" width="450">
 
 ## Care
 Die Zeitungsmedien zeigen auch klare Unterschiede zwischen den Fällen, etwa wie stark industrielle Akteure und die Verantwortung 'des Menschen' angesprochen werden. Bei Tönnies geht es selten um Schweine, bei Nerzen wenig um die Arbeitskräfte vor Ort. Das verbinden wir.
 
-![Tönnies2](/abb4_kap4_A1.png)
+![Tönnies2](abb4_kap4_A1.png?w=500&f=webp)
 
 ## Klimawandel
 Immer wieder besprochen: der Klimawandel. Das wird die Zukunft prägen. Pandemien sind Mensch-Tier-Ereignisse, sie werden häufiger, und sie lassen sich auf industrielle Land- und Tiernutzun zurückführen. Hier entwickelt das Buch eine mehr-als-wissenschaftliche gemeinsame Sprache.
 
-![Tönnies2](/abb14_kap5_B1.png)
+![Tönnies2](abb14_kap5_B1.png?w=500&f=webp)
 
 
 # Mehr zum Tier-Mensch-Verhältnis

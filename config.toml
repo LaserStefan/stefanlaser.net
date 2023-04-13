@@ -75,3 +75,10 @@ defaultContentLanguage = 'en'
   github        = "https://github.com/LaserStefan"
   mastodon      = "https://social.tchncs.de/@stefanlaser"
 
+[[module.mounts]] # move files to propoer folder
+source = 'assets'
+target = 'assets'
+
+[[module.mounts]]
+source = 'static'
+target = 'assets'

@@ -457,9 +457,9 @@ OFF-CANVAS SIDEBAR BEHAVIOUR
 @media screen and (max-width: 767px) {
   .row-offcanvas {
     position: relative;
-    -webkit-transition: all 0.25s ease-out;
-    -o-transition: all 0.25s ease-out;
-    transition: all 0.25s ease-out;
+    -webkit-transition: all 0.05s ease-out;
+    -o-transition: all 0.05s ease-out;
+    transition: all 0.05s ease-out;
     opacity: 1;
   }
   .row-offcanvas-right {
@@ -917,6 +917,7 @@ a:active {
   position: relative;
   min-height: 100px;
   background: #ccc;
+  width: 262px
 }
 .box-masonry .box-masonry-image.with-hover-overlay:before {
   display: block;

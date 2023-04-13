@@ -13,19 +13,15 @@
 <!-- <link rel="stylesheet" href="{{ "css/font-awesome.min.css" | absURL }}"> -->
 
 <link rel="stylesheet" href="{{ "css/owl.carousel.css" | absURL }}" media="print" onload="this.media='all'">
-<link rel="stylesheet" href="{{ "css/owl.theme.css" | absURL }}" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="{{ "css/owl.theme.css" | absURL }}">
 <!-- Theme stylesheet, if possible do not edit this stylesheet -->
 {{ with .Site.Params.style }}
-  <link href="{{ printf "css/style.%s.css" . | absURL }}" rel="stylesheet" id="theme-stylesheet" media="print" onload="this.media='all'">
-<noscript>
-<link href="{{ printf "css/style.%s.css" . | absURL }}" rel="stylesheet" id="theme-stylesheet">
-</noscript>
+  <link href="{{ printf "css/style.%s.css" . | absURL }}" rel="stylesheet" id="theme-stylesheet" >
+
   
 {{ else }}
-  <link href="{{ "css/style.default.css" | absURL }}" rel="stylesheet" id="theme-stylesheet" media="print" onload="this.media='all'">
-<noscript>
-<link href="{{ "css/style.default.css" | absURL }}" rel="stylesheet" id="theme-stylesheet">
-</noscript>
+  <link href="{{ "css/style.default.css" | absURL }}" rel="stylesheet" id="theme-stylesheet">
+
 
 {{ end }}
  <!-- Responsivity for older IE -->

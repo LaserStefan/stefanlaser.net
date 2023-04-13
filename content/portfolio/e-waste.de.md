@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/portfolio/buchcover.jpg"
+image = "img/portfolio/buchcover.jpg?w=262&f=webp"
 title = "Elektroschrott"
 weight = 6
 +++
