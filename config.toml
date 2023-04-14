@@ -44,8 +44,8 @@ defaultContentLanguage = 'en'
       weight = 1
       languageFlag = "🇬🇧"
       sidebarAbout = [
-        "I am a sociologist interested in interdisciplinary and international collaboration. I am part of the newly established collaborative research centre 'Virtual Living Realities'",
-        "Currently based in Bochum. Working from Hanoi, Vietnam.",
+        "I am a sociologist interested in interdisciplinary and international collaboration. I am part of the collaborative research centre Virtual Living Worlds.",
+        "Affiliated with Ruhr-University Bochum, Germany, but currently doing research in and from Hanoi, Vietnam.",
         "Feel free to drop an e-mail or DM me."
       ]
 
@@ -58,8 +58,8 @@ defaultContentLanguage = 'en'
       weight = 2
       languageFlag = "🇩🇪"
       sidebarAbout = [
-        "Ich bin Soziologe mit einem Faible für interdisziplinäre und internationale Problemstellungen. Ich bin Teil des neuen Bochumer SFBs Virtuelle Lebenswelten",
-        "Aktuell arbeite ich in Bochum und lebe in Erfurt. Ich forsche und lebe aktuell in Hanoi, Vietnam."
+        "Ich bin Soziologe mit einem Faible für interdisziplinäre und internationale Problemstellungen. Ich bin Postdoc am Bochumer SFB Virtuelle Lebenswelten.",
+        "Mein Forschungsprojekt ist angesiedelt in Bochum. Aber aktuell forsche und lebe ich in Hanoi, Vietnam."
       ]
 
 

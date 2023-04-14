@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/artenübergreifende.jpg"
+image = "img/portfolio/artenübergreifende.webp"
 showonlyimage = false
 title = "Interspecies care"
 weight = 1
