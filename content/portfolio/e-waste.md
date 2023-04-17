@@ -1,8 +1,8 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/portfolio/shred.jpg"
-title = "E-waste"
+image = "img/portfolio/shred.webp"
+title = "E-waste dissertation"
 weight = 6
 +++
 

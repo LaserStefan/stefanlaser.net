@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/linus-mimietz-unsplash.jpg"
+image = "img/portfolio/linus-mimietz-unsplash.webp"
 showonlyimage = false
 title = "Trains"
 weight = 9

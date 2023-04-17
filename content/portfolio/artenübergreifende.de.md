@@ -16,18 +16,18 @@ Grundlage des Buchs ist eine Kooperation mit Student_innen. Auf einen exzellente
 ## Der Zugang
 Wir schauen auf 5 Zeitungsmedien und Twitterdaten zu #Tönnies und #Nerz, um artenübergreifende Fürsorge aus dem Material herzulleiten, als öffentlichen Belang. So sieht man etwa auf Twitter: die Fälle versammeln heterogene Themen und Akteure, siehe das Bsp. von Tönnies.
 
-![Tönnies1](abb5_kap4_A1.png)
-![Tönnies2](abb13_kap5_A1.png)
+![Tönnies1](abb5_kap4_A1.webp)
+![Tönnies2](abb13_kap5_A1.webp)
 
 ## Care
 Die Zeitungsmedien zeigen auch klare Unterschiede zwischen den Fällen, etwa wie stark industrielle Akteure und die Verantwortung 'des Menschen' angesprochen werden. Bei Tönnies geht es selten um Schweine, bei Nerzen wenig um die Arbeitskräfte vor Ort. Das verbinden wir.
 
-![Tönnies3](abb4_kap4_A1.png?w=500&f=webp)
+![Tönnies3](abb4_kap4_A1.webp)
 
 ## Klimawandel
 Immer wieder besprochen: der Klimawandel. Das wird die Zukunft prägen. Pandemien sind Mensch-Tier-Ereignisse, sie werden häufiger, und sie lassen sich auf industrielle Land- und Tiernutzun zurückführen. Hier entwickelt das Buch eine mehr-als-wissenschaftliche gemeinsame Sprache.
 
-![Tönnies4](abb14_kap5_B1.png?w=500&f=webp)
+![Tönnies4](abb14_kap5_B1.webp)
 
 
 # Mehr zum Tier-Mensch-Verhältnis

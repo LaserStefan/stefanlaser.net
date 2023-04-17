@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/linus-mimietz-unsplash.jpg?w=262&f=webp"
+image = "img/portfolio/linus-mimietz-unsplash.webp"
 showonlyimage = false
 title = "Züge"
 weight = 9

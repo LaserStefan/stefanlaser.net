@@ -9,26 +9,38 @@
     <i class="fa fa-google-plus"></i>
   </a>
   {{end}}
-  {{ with .Site.Params.social.twitter }}
-  <a href="{{ . }}" data-animate-hover="pulse" class="external twitter" title="Twitter">
-    <i class="fa fa-twitter"></i>
-  </a>
-  {{end}}
-  {{ with .Site.Params.social.instagram }}
-  <a href="{{ . }}" title="" class="external instagram" title="Instagram">
-    <i class="fa fa-instagram"></i>
-  </a>
-  {{end}}
   {{ with .Site.Params.social.email }}
   <a href="mailto:{{ . }}" data-animate-hover="pulse" class="email" title="E-mail">
     <i class="fa fa-envelope"></i>
   </a>
   {{end}}
+  {{ with .Site.Params.social.mastodon }}
+  <a href="{{ . }}" data-animate-hover="pulse" class="external" title="Mastodon">
+    <i class="fa-brands fa-mastodon"></i>
+  </a>
+  {{end}}  
+  {{ with .Site.Params.social.twitter }}
+  <a href="{{ . }}" data-animate-hover="pulse" class="external twitter" title="Twitter">
+    <i class="fa fa-twitter"></i>
+  </a>
+  {{end}}
+        {{ with .Site.Params.social.orcid }}
+  <a href="{{ . }}" data-animate-hover="pulse" class="external" title="ORCID">
+    <i class="fa-brands fa-orcid"></i>
+  </a>
+  {{end}}  
+  {{ with .Site.Params.social.instagram }}
+  <a href="{{ . }}" title="" class="external instagram" title="Instagram">
+    <i class="fa fa-instagram"></i>
+  </a>
+  {{end}}
+
   {{ with .Site.Params.social.linkedin }}
   <a href="{{ . }}" data-animate-hover="pulse" class="external" title="LinkedIn">
     <i class="fa fa-linkedin"></i>
   </a>
   {{end}}
+  
   {{ with .Site.Params.social.stackoverflow }}
   <a href="{{ . }}" data-animate-hover="pulse" class="external" title="Stack Overflow">
     <i class="fa fa-stack-overflow"></i>
@@ -54,11 +66,6 @@
     <i class="fa fa-whatsapp"></i>
   </a>
   {{end}}
-  {{ with .Site.Params.social.mastodon }}
-  <a href="{{ . }}" data-animate-hover="pulse" class="external" title="Mastodon">
-    <i class="fa-brands fa-mastodon"></i>
-  </a>
-  {{end}}
     {{ with .Site.Params.social.website }}
   <a href="{{ . }}" data-animate-hover="pulse" class="external" title="Project">
     <i class="fa-solid fa-building-columns"></i>
@@ -69,9 +76,5 @@
     <i class="fa-solid fa-industry"></i>
   </a>
   {{end}}
-        {{ with .Site.Params.social.orcid }}
-  <a href="{{ . }}" data-animate-hover="pulse" class="external" title="ORCID">
-    <i class="fa-brands fa-orcid"></i>
-  </a>
-  {{end}}
+
 </p>
