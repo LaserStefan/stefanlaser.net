@@ -1,0 +1,21 @@
+.masonry {
+  display: flex;
+  flex-wrap: wrap;
+  margin: -10px;
+  
+}
+
+.masonry-item {
+  flex-basis: calc(50% - 20px);
+  margin: 10px;
+  padding: 25px;
+  background-color: var(--theme);
+  border-radius: 6px;
+  box-shadow: none;
+  border: none;
+}
+
+:root  {
+    --content: rgb(89, 89, 89);
+	--main-width: 750px;
+	}
