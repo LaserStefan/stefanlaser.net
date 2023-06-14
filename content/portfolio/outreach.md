@@ -3,7 +3,7 @@ draft = false
 image = ""
 showonlyimage = false
 title = "Outreach"
-weight = 8
+weight = 5
 +++
 I enjoy writing and speaking about my research fields in non-scientific contexts.
 <!--more-->

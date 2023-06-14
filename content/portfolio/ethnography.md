@@ -1,12 +1,16 @@
-+++
-draft = false
-image = "img/portfolio/lkw blick.webp"
-showonlyimage = false
-title = "Ethnography"
-weight = 3
-+++
+---
+cover:
+    image : "img/portfolio/lkw blick.webp"
+    hidden: true
+    hiddenInList: false
+    hiddenInSingle: true
+    linkFullImages : true
+    responsiveImages : true
+title: "Ethnography"
+weight: 3
+---
 
-My central methodological competence.
+My central methodological competence: participant observation, immersion, following materials, expert knowledge and situated practices.
 <!--more-->
 The qualitative, participatory lens is a research ethos for me, it involves participating in core practices of social actors, acquiring and reconstructing expert knowledge, and generally being creative with different sources of data.
 

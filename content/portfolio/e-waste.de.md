@@ -1,10 +1,14 @@
-+++
-showonlyimage = false
-draft = false
-image = "img/portfolio/buchcover.webp"
-title = "Elektroschrott-Dissertation"
-weight = 6
-+++
+---
+cover:
+    image : "img/portfolio/buchcover.webp"
+    hidden: true
+    hiddenInList: false
+    hiddenInSingle: true
+    linkFullImages : true
+    responsiveImages : true
+title: "Elektroschrott-Dissertation"
+weight: 6
+---
 
 Globale und interdisziplinäre Forschung zu Elektroschrott: unter E-Schrott laufen bei mir verschiedene Initiativen zusammen.
 <!--more-->

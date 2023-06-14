@@ -1,3 +1,0 @@
-{{ $image := .Resources.GetMatch ( .Get "src" ) }}
-
-<img src="{{ ($image.Resize "450x webp").RelPermalink }}" />

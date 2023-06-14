@@ -1,10 +1,14 @@
-+++
-draft = false
-image = "img/portfolio/linus-mimietz-unsplash.webp"
-showonlyimage = false
-title = "Trains"
-weight = 9
-+++
+---
+cover:
+    image : "img/portfolio/linus-mimietz-unsplash.webp"
+    hidden: true
+    hiddenInList: false
+    hiddenInSingle: true
+    linkFullImages : true
+    responsiveImages : true
+title: "Trains"
+weight: 7
+---
 
 Based on my (now concluded) work in the [collaborative research centre in Siegen](https://www.mediacoop.uni-siegen.de/de/projekte/a04/) I contribute to the discussion on mobility transitions.
 <!--more-->

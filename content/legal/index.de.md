@@ -1,5 +1,6 @@
 +++
 title = "legal"
+hiddenInHomeList = true
 +++
 
 Hosting via BIOHOST.

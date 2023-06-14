@@ -1,12 +1,16 @@
-+++
-draft = false
-image = "img/portfolio/lkw blick.webp"
-showonlyimage = false
-title = "Ethnographie"
-weight = 3
-+++
+---
+cover:
+    image : "img/portfolio/lkw blick.webp"
+    hidden: true
+    hiddenInList: false
+    hiddenInSingle: true
+    linkFullImages : true
+    responsiveImages : true
+title: "Ethnographie"
+weight: 3
+---
 
-Meine zentrale Methodenkompetenz.
+Meine zentrale Methodenkompetenz: teilnehmende Beobachtung, kreative und an das Forschungsfeld angepasste Datenanalyse.
 <!--more-->
 Die qualitative, teilnehmende Perspektive ist für mich eine Forschungshaltung, es umfasst das Partizipieren bei Kernpraktiken von sozialen Akteuren, das Anwerben und Rekonstruieren von Expert_innenwissen, sowie ein generell kreativer Umgang mit unterschiedlichen Datenquellen.
 

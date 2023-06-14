@@ -1,0 +1,156 @@
+baseURL: 'https://stefanlaser.net/'
+languageCode: en-uk
+title: Dr. Stefan Laser
+theme: PaperMod
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+pygmentsUseClasses: true
+params:
+  title: Dr. Stefan Laser
+  description: >-
+    Blog and portfolio of Dr. Stefan Laser, a scholar of science and technology
+    studies, waste, and energy.
+  keywords:
+    - Blog
+    - Portfolio
+    - Science and Technology Studies
+    - STS
+    - waste
+    - energy
+  mainSections:
+    - post
+    - posts
+    #- portfolio
+  DateFormat: 'January 2, 2006'
+  defaultTheme: auto
+  disableThemeToggle: false
+  ShowReadingTime: false
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: false
+  env: production
+  ShowCodeCopyButtons: false
+  ShowWordCount: false
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: true
+  hidemeta: false
+  hideSummary: false
+  showtoc: true
+  tocopen: false
+  assets:
+    favicon: <link / abs url>
+    favicon16x16: <link / abs url>
+    favicon32x32: <link / abs url>
+    apple_touch_icon: <link / abs url>
+    safari_pinned_tab: <link / abs url>
+  label:
+    text: Dr. Stefan Laser
+    icon: /apple-touch-icon.png
+    iconHeight: 35
+  profileMode:
+    enabled: false
+    title: ExampleSite
+    subtitle: This is subtitle
+    imageUrl: <img location>
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: my image
+    buttons:
+      - name: Posts
+        url: blog
+      - name: Tags
+        url: tags
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: >-
+      I am a sociologist interested in interdisciplinary and international
+      collaboration. I am part of the collaborative research centre Virtual
+      Life Worlds in a project studying virtual information infrastructures, ie, data centres. Affiliated with Ruhr-University Bochum, Germany, but
+      currently doing research in and from Hanoi, Vietnam. Contact: [Email](mailto:stefan.laser@ruhr-uni-bochum.de).
+      
+      
+      
+      I have set up a [separate website for my first monograph on e-waste](https://hightech-am-ende.de/en).
+      
+      
+      
+      My interests: Sustainability, Ecology, Science & Technology, Waste, Pollution, Energy. 
+markup:
+  socialIcons:
+    - name: mastodon
+      url: 'https://social.tchncs.de/@stefanlaser'
+    - name: twitter
+      url: 'https://twitter.com/stefan_laser_'
+    - name: github
+      url: 'https://github.com/LaserStefan'
+    - name: googlescholar
+      url: >-
+        https://scholar.google.com/citations?view_op=list_works&hl=en&user=gSRh-T4AAAAJ&gmla=ABEO0YrY0L8IJc-NbcsuPa1gb6gUnAwvI_TmKsRF0vt1CnscZQTcN8uBRm5_mP2HeSSGP0xpNeie3N8BRIX1of1nRJAg7N9ckKUDxEuKimQrBfKGUdrftdm_yg
+  cover:
+    hidden: false
+    hiddenInList: false
+    hiddenInSingle: false
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys:
+      - title
+      - permalink
+      - summary
+      - content
+menu:
+  main:
+    - identifier: post
+      name: blog
+      url: /post/
+      weight: 10
+    - identifier: portfolio
+      name: portfolio
+      url: /portfolio/
+      weight: 20
+    - identifier: about
+      name: about
+      url: /about/
+      weight: 30
+    - identifier: CV
+      name: CV
+      url: '/cv.html/'
+      weight: 40
+    - identifier: publications on ORCID
+      name: publications on ORCID
+      url: 'https://orcid.org/0000-0002-6782-3496'
+      weight: 50
+languages:
+  en:
+    languageCode: en
+    title: Dr. Stefan Laser
+    weight: 1
+  de:
+    languageCode: de
+    title: Dr. Stefan Laser
+    weight: 2
+    params:
+      homeInfoParams:
+        Title: "Hallo \U0001F44B"
+        Content: >-
+          Ich bin Soziologe mit Interesse an interdisziplinärer und internationaler Kooperation. Ich bin Teil des Sonderforschungsbereichs Virtuelle Lebenswelten in einem Projekt zur Untersuchung virtueller Informationsinfrastrukturen, d.h. Rechenzentren. 
+          Institutionell bin ich affiliiert mit Bochum. Aber aktuell forsche und lebe ich in Hanoi, Vietnam. Kontakt: [E-Mail](mailto:stefan.laser@ruhr-uni-bochum.de).
+          
+          
+          Für mein erstes Buch zum Wert von Elektroschrott habe ich eine [separate Website aufgebaut](https://hightech-am-ende.de/).
+          
+          
+          Forschungsinteressen: Nachhaltigkeit, Ökologie, Wissenschaft- und Technikstudien, Abfall, Verschmutzung, Energie.
+                             
+markup:
+  highlight:
+    noClasses: false

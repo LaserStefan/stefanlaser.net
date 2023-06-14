@@ -1,10 +1,16 @@
-+++
-draft = false
-image = "img/portfolio/mining.webp"
-showonlyimage = false
-title = "Aktuelles Projekt"
-weight = 1
-+++
+---
+draft: false
+cover:
+    image : "img/portfolio/mining.webp"
+    hidden: true
+    hiddenInList: false
+    hiddenInSingle: true
+    linkFullImages : true
+    responsiveImages : true
+title: "Aktuelles Projekt"
+weight: 1
+#hiddenInHomeList: true
+---
 
 Mein derzeitiges Hauptforschungsthema sind Datenzentren: ihre lokale Ausrichtung, materielle Hinterlassenschaften, Bauverfahren und globale Produktionsnetzwerke, die ihren Betrieb ermöglichen. Die Forschung wird im Rahmen des Sonderforschungsbereichs 1567 Virtuelle Lebenswelten im Teilprojekt A02 unter der Leitung von Estrid Sørensen durchgeführt.
 <!--more-->

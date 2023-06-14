@@ -1,12 +1,16 @@
-+++
-draft = false
-image = "img/portfolio/streamgraph.jpg"
-showonlyimage = true
-title = "Coding"
-weight = 4
-+++
+---
+cover:
+    image : "img/portfolio/streamgraph.jpg"
+    hidden: true
+    hiddenInList: false
+    hiddenInSingle: true
+    linkFullImages : true
+    responsiveImages : true
+title: "Coding"
+weight: 4
+---
 
-From Data Science to Graph Analysis.
+More hands-on skills: From Data Science to Graph Analysis.
 <!--more-->
 In addition to qualitative, ethnographic methods, I work with digital research approaches. They enrich the qualitative analysis.
 I specialise in the analysis and preparation of public controversies. I work mainly with Gephi, Python and R and focus on data analytics. See also [GitHub](https://github.com/LaserStefan).

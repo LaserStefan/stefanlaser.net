@@ -3,7 +3,7 @@ draft = false
 image = ""
 showonlyimage = false
 title = "Öffentlichkeit"
-weight = 8
+weight = 5
 +++
 
 Ich schreibe und spreche gerne über meine Forschungsfelder in außerwissenschaftlichen Kontexten.

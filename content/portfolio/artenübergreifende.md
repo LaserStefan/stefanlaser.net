@@ -1,11 +1,16 @@
-+++
-draft = false
-image = "img/portfolio/artenübergreifende.webp"
-showonlyimage = false
-title = "Interspecies care"
-weight = 1
-+++
-
+---
+draft: false
+title: "Interspecies care"
+weight: 1
+cover:
+    image : "img/portfolio/artenübergreifende.jpg"
+    hidden: true
+    hiddenInList: false
+    hiddenInSingle: true
+    linkFullImages : true
+    responsiveImages : true
+noComment: true
+---
 More-than-human research in the aftermath of the Corona crisis.
 <!--more-->
 

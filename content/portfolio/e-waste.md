@@ -1,12 +1,16 @@
-+++
-showonlyimage = false
-draft = false
-image = "img/portfolio/shred.webp"
-title = "E-waste dissertation"
-weight = 6
-+++
+---
+cover:
+    image : "img/portfolio/shred.jpg"
+    hidden: true
+    hiddenInList: false
+    hiddenInSingle: true
+    linkFullImages : true
+    responsiveImages : true
+title: "E-waste dissertation"
+weight: 6
+---
 
-Global and interdisciplinary research on e-waste.
+Global and interdisciplinary research on e-waste: ethnographic studies in Germany, India, and across social media platforms.
 <!--more-->
 Key for this research is a book I published: Hightech at the end.
 

@@ -1,10 +1,14 @@
-+++
-draft = false
-image = "img/portfolio/linus-mimietz-unsplash.webp"
-showonlyimage = false
-title = "Züge"
-weight = 9
-+++
+---
+cover:
+    image : "img/portfolio/linus-mimietz-unsplash.webp"
+    hidden: true
+    hiddenInList: false
+    hiddenInSingle: true
+    linkFullImages : true
+    responsiveImages : true
+title: "Züge"
+weight: 7
+---
 
 Im Rahmen meiner nunmehr abgeschlossenen [SFB-Forschung in Siegen](https://www.mediacoop.uni-siegen.de/de/projekte/a04/) trage ich zur Verkehrswende-Debatte bei.
 <!--more-->
