@@ -19,7 +19,7 @@ My goal is to conduct sustainable and careful research and to cultivate a differ
 
 ## Interests
 - Material politics of energy transitions and sustainability measures
-- Relational approaches like actor-network theory
+- STS and relational approaches like actor-network theory
 - Economic sociology
 - Digital methods
 - Waste, energy, and valuation studies
@@ -30,5 +30,9 @@ My goal is to conduct sustainable and careful research and to cultivate a differ
 - Member of the DFG Research Network: “Valuation Studies: On the Way to the Evaluation Society?” 
 - Co-organisation of a DFG research network. [“Waste in motion: Mobilisations of waste and pollutants as a sociomaterial configurations”](https://waste-in-motion.org/)
 - Member of the [RUSTlab in Bochum](https://rustlab.ruhr-uni-bochum.de/)
-- Member of GWTF – Society for Science and Technology Research Member of the German Society for Sociology and the sections: Economic Sociology, Social Theory Member of the European Association for the Study of Science and Technology (EASST) 
+- Member of GWTF – Society for Science and Technology Research 
+- Member of the German Society for Sociology and the sections: Economic Sociology, Social Theory 
+- Member of the European Association for the Study of Science and Technology (EASST) 
 - Member of the “Platform for Experimental, Collaborative Ethnography” (PECE), with contributions to “The Astma Files” and “Disaster STS”
+
+[More info: CV.](/cv/)
