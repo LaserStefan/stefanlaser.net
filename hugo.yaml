@@ -43,11 +43,11 @@ params:
   showtoc: true
   tocopen: false
   assets:
-    favicon: <link / abs url>
-    favicon16x16: <link / abs url>
-    favicon32x32: <link / abs url>
-    apple_touch_icon: <link / abs url>
-    safari_pinned_tab: <link / abs url>
+    favicon: "favicon-32x32.png"
+    favicon16x16: "favicon-16x16.png"
+    favicon32x32: "favicon-32x32.png"
+    apple_touch_icon: "apple-touch-icon.png"
+    safari_pinned_tab: "apple-touch-icon"
   label:
     text: Dr. Stefan Laser
     icon: /apple-touch-icon.png
@@ -70,7 +70,7 @@ params:
     Content: >-
       I am a sociologist interested in interdisciplinary and international
       collaboration. I am part of the collaborative research centre Virtual
-      Life Worlds in a project studying virtual information infrastructures, ie, data centres. Affiliated with Ruhr-University Bochum, Germany, but
+      Life Worlds in a project studying virtual information infrastructures, ie, data centres. [Affiliated with Ruhr-University Bochum](https://www.sfb1567.ruhr-uni-bochum.de/early-career-forum/xx-5), Germany, but
       currently doing research in and from Hanoi, Vietnam. Contact: [Email](mailto:stefan.laser@ruhr-uni-bochum.de).
       
       
@@ -80,7 +80,7 @@ params:
       
       
       My interests: Sustainability, Ecology, Science & Technology, Waste, Pollution, Energy. 
-markup:
+#markup:
   socialIcons:
     - name: mastodon
       url: 'https://social.tchncs.de/@stefanlaser'
@@ -89,8 +89,7 @@ markup:
     - name: github
       url: 'https://github.com/LaserStefan'
     - name: googlescholar
-      url: >-
-        https://scholar.google.com/citations?view_op=list_works&hl=en&user=gSRh-T4AAAAJ&gmla=ABEO0YrY0L8IJc-NbcsuPa1gb6gUnAwvI_TmKsRF0vt1CnscZQTcN8uBRm5_mP2HeSSGP0xpNeie3N8BRIX1of1nRJAg7N9ckKUDxEuKimQrBfKGUdrftdm_yg
+      url: 'https://scholar.google.com/citations?view_op=list_works&hl=en&user=gSRh-T4AAAAJ&gmla=ABEO0YrY0L8IJc-NbcsuPa1gb6gUnAwvI_TmKsRF0vt1CnscZQTcN8uBRm5_mP2HeSSGP0xpNeie3N8BRIX1of1nRJAg7N9ckKUDxEuKimQrBfKGUdrftdm_yg'
   cover:
     hidden: false
     hiddenInList: false
@@ -123,10 +122,10 @@ menu:
       weight: 30
     - identifier: CV
       name: CV
-      url: '/cv.html/'
+      url: '/cv/'
       weight: 40
     - identifier: publications on ORCID
-      name: publications on ORCID
+      name: ORCID
       url: 'https://orcid.org/0000-0002-6782-3496'
       weight: 50
 languages:

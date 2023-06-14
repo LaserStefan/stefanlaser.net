@@ -11,4 +11,6 @@ Mein Forschungsfokus liegt auf der materiellen Politik von sozial-ökologischen 
 
 Das Ziel meiner akademischen Forschung ist die gegenseitige Austarierung von empirischen Fallstudien, Theorie und Methodologie. Ich untersuche die sozial-ökologische Transformation aus verschiedenen Richtungen, d.h. durch mehrere Fallstudien. Über alle Fälle hinweg interessiere ich mich besonders für die Materialität von Transformationen.
 
+Diese Website ist ein Beispiel für eine (minimale) Intervention im Sinne von materieller Politik: Die Website wird bei einem klimafreundlichen Hosting-Anbieter gehostet, sie verwendet ein statisches HTML-Setup, und Inhalte wie Bilder sind stark optimiert.
+
 Mein Ziel ist es, nachhaltige und umsichtige Forschung zu betreiben und eine andere Art der Wissenschaft zu pflegen. Dazu gehört sowohl die Reflexion des planetaren Einflusses der eigenen Forschung sowie die Wertschätzung von offenen und freien Methoden und Publikationsformen. Meine Arbeiten erscheinen daher vornehmlich, wenn auch nicht ausschließlich in offenen Publikationen. Hervorheben möchte ich etwa Science & Technology Studies, Valuation Studies, die Zeitschrift für Soziologie, die Österreichische Zeitschrift für Soziologie, das Journal für Entwicklungspolitik, ephemera und Cultural Studies Review.
