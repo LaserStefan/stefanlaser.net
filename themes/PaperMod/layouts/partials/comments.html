@@ -4,7 +4,7 @@
 {{ with .Params.comments }}
 <div class="article-content">
   <h2>Comments</h2>
-  <p>You can use your Mastodon account to take part in the <a class="link" href="https://{{ .host }}/@{{ .username }}/{{ .id }}">discussion</a>. 🙏 <a href=https://danielpecos.com/2022/12/25/mastodon-as-comment-system-for-your-static-blog/> Daniel for the tool.</a></p>
+  <p>You can use your Mastodon account to <a class="link" href="https://{{ .host }}/@{{ .username }}/{{ .id }}">discuss</a>. 🙏 <a href="https://danielpecos.com/2022/12/25/mastodon-as-comment-system-for-your-static-blog/"> Daniel</a> & <a href="https://carlschwan.eu/2020/12/29/adding-comments-to-your-static-blog-with-mastodon/"> Carl </a> for the code.</a></p>
   <p><button id="replyButton" href="https://{{ .host }}/@{{ .username }}/{{ .id }}"><u>Reply</u></button></p>  
   <p id="mastodon-comments-list"><button id="load-comment"><u>Load comments</u></button></p>
   <dialog id="toot-reply" class="mastodon" data-component="dialog">

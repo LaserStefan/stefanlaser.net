@@ -1,6 +1,7 @@
 ---
 title: "Sozialwissenschaft, Ökologie und umsichtige digitale Kommunikation"
-weight: 1
+# weight: 1
+date: 2023-06-13
 comments:
     host: social.tchncs.de
     username: stefanlaser
