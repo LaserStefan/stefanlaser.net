@@ -2,10 +2,10 @@
 title: "Patchy value chains"
 date: 2023-06-15
 #weight: 2
-#comments:
-#    host: social.tchncs.de
-#    username: stefanlaser
-#    id: 109556447347067136
+comments:
+    host: social.tchncs.de
+    username: stefanlaser
+    id: 110547043215196751
 ---
 
 With this post, I want to bring a color to the blog, show how I experience my daily life as a researcher in Vietnam, and how I follow material infrastructures. It's going on in bits and pieces, and some is a patchwork. Last not least, this is also a means of sharing links and snapshots.
