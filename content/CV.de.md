@@ -29,7 +29,7 @@ hiddenInHomeList = true
 - Ethnography and qualitative social science research methods
 
 **Memberships**
-- Elected Board Member: stsing e.V. Doing STS in and through Germany. Access Point of the working group “Tech and Infrastructure“ 
+- Elected Board Member: [stsing e.V. Doing STS in and through Germany.](https://stsing.org). Access Point of the working group “Tech and Infrastructure“ 
 - Member of the DFG Research Network: “Valuation Studies: On the Way to the Evaluation Society?” 
 - Co-organisation of a DFG research network. [“Waste in motion: Mobilisations of waste and pollutants as a sociomaterial configurations”](https://waste-in-motion.org/)
 - Member of the [RUSTlab in Bochum](https://rustlab.ruhr-uni-bochum.de/)
