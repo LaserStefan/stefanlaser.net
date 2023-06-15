@@ -68,18 +68,17 @@ params:
   homeInfoParams:
     Title: "Hi there \U0001F44B"
     Content: >-
-      I am a sociologist interested in interdisciplinary and international
-      collaboration. I am part of the collaborative research centre Virtual
-      Life Worlds in a project studying virtual information infrastructures, ie, data centres. [Affiliated with Ruhr-University Bochum](https://www.sfb1567.ruhr-uni-bochum.de/early-career-forum/xx-5), Germany, but
-      currently doing research in and from Hanoi, Vietnam. Contact: [Email](mailto:stefan.laser@ruhr-uni-bochum.de).
+     Blog and portfolio of Dr. Stefan Laser, a scholar of science and technology studies. My interests: ecology, digital infrastructures, waste, and energy. 
+     
+     
+     
+     
+     [Affiliated with Ruhr-University Bochum](https://www.sfb1567.ruhr-uni-bochum.de/early-career-forum/xx-5), Germany,
+      currently doing research in and from Hanoi, Vietnam. 
       
       
       
       I have set up a [separate website for my first monograph on e-waste](https://hightech-am-ende.de/en).
-      
-      
-      
-      My interests: Sustainability, Material Politics, Science & Technology, Waste, Pollution, Energy 
 #markup:
   socialIcons:
     - name: mastodon
@@ -141,14 +140,13 @@ languages:
       homeInfoParams:
         Title: "Hallo \U0001F44B"
         Content: >-
-          Ich bin Soziologe mit Interesse an interdisziplinärer und internationaler Kooperation. Ich bin Teil des Sonderforschungsbereichs Virtuelle Lebenswelten in einem Projekt zur Untersuchung virtueller Informationsinfrastrukturen, d.h. Rechenzentren. 
-          Institutionell bin ich affiliiert mit Bochum. Aber aktuell forsche und lebe ich in Hanoi, Vietnam. Kontakt: [E-Mail](mailto:stefan.laser@ruhr-uni-bochum.de).
+          Blog und Portfolio von Dr. Stefan Laser. Ich arbeite interdisziplinär im Feld der Wissenschafts- und Technikstudien. Meine Interessen: Ökologie, digitale Infrastrukturen, Abfall und Energie.
+
+          
+          Institutionell bin ich affiliiert mit der Ruhr-Universität Bochum. Aber aktuell forsche und lebe ich in Hanoi, Vietnam. 
           
           
           Für mein erstes Buch zum Wert von Elektroschrott habe ich eine [separate Website aufgebaut](https://hightech-am-ende.de/).
-          
-          
-          Forschungsinteressen: Nachhaltigkeit, Materielle Politik, Wissenschaft- und Technikstudien, Abfall, Verschmutzung, Energie
                              
 markup:
   highlight:

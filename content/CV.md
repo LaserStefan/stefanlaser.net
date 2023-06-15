@@ -11,9 +11,10 @@ hiddenInHomeList = true
 ## General Information
 
 **Contact Information**
-- Email: stefan.laser@ruhr-uni-bochum.de/
+- Contact: [Email](mailto:stefan.laser@ruhr-uni-bochum.de)
 - Project website: [SFB 1567 Virtual Life Worlds](https://www.sfb1567.ruhr-uni-bochum.de/early-career-forum/xx-5)
-- Mastodon: `https://social.tchncs.de/@stefanlaser'
+- Faculty website: [Social Sciences department, chair of Anthropology of Knowledge](https://www.sowi.ruhr-uni-bochum.de/cupak/team/laser.html.en)
+- Mastodon: `https://social.tchncs.de/@stefanlaser`
 - Twitter: `@stefan_laser_`
 - GitHub: `LaserStefan`
 - ResearchGate: `Stefan-Laser`

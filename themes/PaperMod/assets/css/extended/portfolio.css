@@ -15,6 +15,12 @@
   border: none;
 }
 
+@media (max-width: 767px) {
+  .masonry-item {
+    flex-basis: calc(100% - 20px);
+  }
+}
+
 :root  {
     --content: rgb(89, 89, 89);
 	--main-width: 750px;
