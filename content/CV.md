@@ -152,7 +152,7 @@ hiddenInHomeList = true
 
 ### Monographs
 
-- Groth, Karla, Stefan Laser, Isabelle Sarther, and Jennifer Schirrmacher (20229: _Artenübergreifende Fürsorge? Die Corona-Pandemie und das Mensch-Tier-Verhältnis_ [Interspecies care? The Corona pandemic and the human-animal relation]. Human-Animal Studies. Bielefeld: transcript.
+- Groth, Karla, Stefan Laser, Isabelle Sarther, and Jennifer Schirrmacher (2022): _Artenübergreifende Fürsorge? Die Corona-Pandemie und das Mensch-Tier-Verhältnis_ [Interspecies care? The Corona pandemic and the human-animal relation]. Human-Animal Studies. Bielefeld: transcript.
 - Laser, Stefan (2020) Hightech am Ende. Über das globale Recycling von Elektroschrott und die Entstehung neuer Werte [Hightech at the end. On the global recycling of electronic waste and the creation of new values]. Wiesbaden: Springer VS.
 
 ### Peer-Reviewed Articles and Book Chapters
