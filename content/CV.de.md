@@ -12,7 +12,7 @@ hiddenInHomeList = true
 
 **Contact Information**
 - Contact: [Email](mailto:stefan.laser@ruhr-uni-bochum.de). Let me know if you need smth. more secure, since PGP is not the best solution anymore.
-- Project website: [SFB 1567 Virtual Life Worlds](https://www.sfb1567.ruhr-uni-bochum.de/early-career-forum/xx-5)
+- Project website: [SFB 1567 Virtual Life Worlds](https://www.virtuelle-lebenswelten.de/early-career-forum/laser-stefan)
 - Faculty website: [Social Sciences department, chair of Anthropology of Knowledge](https://www.sowi.ruhr-uni-bochum.de/cupak/team/laser.html.en)
 - Mastodon: https://social.tchncs.de/@stefanlaser
 - Twitter: `@stefan_laser_`
@@ -29,7 +29,7 @@ hiddenInHomeList = true
 - Ethnography and qualitative social science research methods
 
 **Memberships**
-- Elected Board Member: [stsing e.V. Doing STS in and through Germany.](https://stsing.org) Access Point of the working group “Tech and Infrastructure“ 
+- Elected Board Member 2021-23: [stsing e.V. Doing STS in and through Germany.](https://stsing.org) Access Point of the working group “Tech and Infrastructure“ 
 - Member of the DFG Research Network: “Valuation Studies: On the Way to the Evaluation Society?” 
 - Co-organisation of a DFG research network. [“Waste in motion: Mobilisations of waste and pollutants as a sociomaterial configurations”](https://waste-in-motion.org/)
 - Member of the [RUSTlab in Bochum](https://rustlab.ruhr-uni-bochum.de/)
@@ -145,6 +145,12 @@ hiddenInHomeList = true
 
 ## List of Publications
 ### Editorials and Edited Volumes
+
+In preparation:
+- Edited volume with the Early Career Forum of CRC 1567 (2024): A situated lexicon of Virtuality.
+- Edited volume with Mél Hogan and Edward Ongweso (2024): Predictions.
+- Edited volume with Karoline Krenn, Jonathan Kropf and Carsten Ochs: Varianten digitaler Bewertungen (Springer-VS 2024).
+- And a somewhat secret special issue.
 
 - Greeson, Emma, Stefan Laser, and Olli Pyyhtinen, eds. (2020): "Special Issue: Dis/assembling value. Lessons from waste valuation practices." _Valuation Studies_ 7(2): 151-166.
 - Schlitz, Nicolas, and Stefan Laser, eds. (2019): "Special Issue: Waste and globalized inequalities." _Austrian Journal of Development Studies_ 35(2-3): 171-177.

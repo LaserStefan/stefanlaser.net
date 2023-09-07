@@ -12,7 +12,7 @@ hiddenInHomeList = true
 
 **Contact Information**
 - Contact: [Email](mailto:stefan.laser@ruhr-uni-bochum.de). Let me know if you need smth. more secure, since PGP is not the best solution anymore.
-- Project website: [SFB 1567 Virtual Life Worlds](https://www.sfb1567.ruhr-uni-bochum.de/early-career-forum/xx-5)
+- Project website: [SFB 1567 Virtual Life Worlds](https://www.virtuelle-lebenswelten.de/early-career-forum/laser-stefan)
 - Faculty website: [Social Sciences department, chair of Anthropology of Knowledge](https://www.sowi.ruhr-uni-bochum.de/cupak/team/laser.html.en)
 - Mastodon: https://social.tchncs.de/@stefanlaser
 - Twitter: `@stefan_laser_`
@@ -145,6 +145,12 @@ hiddenInHomeList = true
 
 ## List of Publications
 ### Editorials and Edited Volumes
+
+In preparation:
+- Herausgeberschaft mit dem Early Career Forum des SFB 1567 (2024): Situiertes Lexikon des Virtuellen.
+- Herausgeberschaft mit Mél Hogan und Edward Ongweso (2024): Predictions.
+- Herausgeberschaft mit Karoline Krenn, Jonathan Kropf and Carsten Ochs: Varianten digitaler Bewertungen (Springer-VS 2024).
+- Und ein noch geheimes Special Issue.
 
 - Greeson, Emma, Stefan Laser, and Olli Pyyhtinen, eds. (2020): "Special Issue: Dis/assembling value. Lessons from waste valuation practices." _Valuation Studies_ 7(2): 151-166.
 - Schlitz, Nicolas, and Stefan Laser, eds. (2019): "Special Issue: Waste and globalized inequalities." _Austrian Journal of Development Studies_ 35(2-3): 171-177.
