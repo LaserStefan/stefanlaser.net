@@ -11,7 +11,7 @@ hiddenInHomeList = true
 ## General Information
 
 **Contact Information**
-- Contact: [Email](mailto:stefan.laser@ruhr-uni-bochum.de). Let me know if you need smth. more secure, since PGP is not the best solution anymore.
+- Contact: [Email](mailto:stefan.laser@ruhr-uni-bochum.de)
 - Project website: [SFB 1567 Virtual Life Worlds](https://www.virtuelle-lebenswelten.de/early-career-forum/laser-stefan)
 - Faculty website: [Social Sciences department, chair of Anthropology of Knowledge](https://www.sowi.ruhr-uni-bochum.de/cupak/team/laser.html.en)
 - Mastodon: https://social.tchncs.de/@stefanlaser
