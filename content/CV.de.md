@@ -29,6 +29,7 @@ hiddenInHomeList = true
 - Ethnography and qualitative social science research methods
 
 **Memberships**
+- Co-Editor of the journal [EASST Review]([EASST Review - EASST](https://easst.net/easst-review/))
 - Elected Board Member 2021-23: [stsing e.V. Doing STS in and through Germany.](https://stsing.org) Access Point of the working group “Tech and Infrastructure“ 
 - Member of the DFG Research Network: “Valuation Studies: On the Way to the Evaluation Society?” 
 - Co-organisation of a DFG research network. [“Waste in motion: Mobilisations of waste and pollutants as a sociomaterial configurations”](https://waste-in-motion.org/)
@@ -146,7 +147,7 @@ hiddenInHomeList = true
 ## List of Publications
 ### Editorials and Edited Volumes
 
-In preparation:
+**In preparation:**
 - Edited volume with the Early Career Forum of CRC 1567 (2024): A situated lexicon of Virtuality.
 - Edited volume with Mél Hogan and Edward Ongweso (2024): Predictions.
 - Edited volume with Karoline Krenn, Jonathan Kropf and Carsten Ochs: Varianten digitaler Bewertungen (Springer-VS 2024).
@@ -204,23 +205,23 @@ In preparation:
 13. Hanika, Tom/Kibanov, Mark/Kropf, Jonathan/Laser, Stefan (2018): ‘Ich denke, es ist wichtig zu verstehen, warum die Netzwerkanalyse jetzt populär und besonders interessant für die Forschung geworden ist.’ Im Gespräch mit einem Mathematiker und einem Informatiker [‘I think it is important to understand why network analysis has become popular and particularly interesting for research now.’ In conversation with a mathematician and a computer scientist]. In: Kropf, Jonathan/Laser, Stefan (Eds.), Digitale Bewertungspraktiken. Für eine Bewertungssoziologie des Digitalen. [Digital valuation practices. Towards a sociology of valuation of the digital] Wiesbaden: Springer VS, 165‐188. 
 
 ## List of 20 Selected Presentations
-1. Laser, Stefan/Schönbauer, Sarah: "Waste in Circulation", panel organized, Aachen, STS-Hub.de, 15.03.2023.
-2. Bogusz, Tanja/Laser, Stefan: "Circulating Experimental Knowledge: On Co-laborative stsing in the Anthropocene", panel organized, Aachen, STS-Hub.de, 17.03.2023.
-3. Çelik, Leman/Laser, Stefan/Sørensen, Estrid: "Across the Layers: Scientific Knowledge Production, Planetary Resources, and Data Centres", lecture series, Ruhr-University Bochum, winter 2022/23.
-4. Kropf, Jonathan/Laser, Stefan/Ochs, Carsten: "Shaping platforms and reflecting value conflicts in socio-digital valuation infrastructures", workshop organized, Kassel, 19./20.05.2022
-5. Laser, Stefan: "Climate on and off the railways. The railway in the ecological transformation", paper presented during the workshop "Organisation and Valuation of Sustainability", Hamburg, 5.11.2021
-6. Mewes, Julie Sascia/Kocksch, Laura/Sorensen, Estrid/Carmona, Susana C/Laser, Stefan/Galanova, Olga/Asai, Ryoko/Delgado, Abigail Nieves: Coding the RUSTlab. Discussing, writing and living an STS lab, Conference: 4S Annual Meeting 2021, Toronto, October 2021.
-7. Laser, Stefan: "Waste: On the question of value", paper presented during the workshop "The ecological question", organized by the section of Social Theory of the German Society of Sociology, Frankfurt am Main, 05.06.2020 
-8. Laser, Stefan: “Cycling on and through digital platforms, or: What happens when data centres shape the mobility of athletes?“, paper presented, 5th Energy and Society conference, Trento, 11.02.2021.
-9. Kocksch, Laura/Laser, Stefan/Pittroff, Fabian/Roschka, Jakob/Sørensen, Estrid: “Inquiring the digital interstice through a data sprint: Ethnographic research where front and back end meet“, workshop organized, conference “New Materialist Informatics“, Kassel, 22.03.2021.
-10. Laser, Stefan: “Charging the bin: Bringing energy in“, paper presented, conference “Re‐Opening the Bin“, Gothenburg, Sweden, 11.06.2021.
-11. Kocksch, Laura/Laser, Stefan/Sørensen, Estrid: “Decentring datacentres: their politics, energy, waste and epistemics“, panel organized during the EASST/4S conference: Locating and Timing Matters, Prague, Czech Republic, 19.08.2020.
-12. Laser, Stefan: “Restoring a broken landscape? A ‘pioneering model’ from the Ruhr Valley, a former coal mining hub“, paper presented during the EASST/4S conference, Prague, Czech Republic, 20.08.2020.
-13. Laser, Stefan: “On high‐tech recycling. Some lessons from a global ethnography of electronic waste“, paper presented at the Centre for Science Studies, Department of Sociology, Lancaster University, Lancaster, UK, 27.03.2019.
-14. Laser, Stefan: “Waste and globalized inequalities. The case of e‐waste“, paper presented at the Sustainability Research Network, Lancaster University, Lancaster, UK, 26.03.2019.
-15. Laser, Stefan: “Modular smartphones. Assessing a recent hype“, paper presented, EASST conference, Lancaster, UK, 27.07.2018.
-16. Laser, Stefan/Stowell, Alison: “Apple’s recycling robot "Liam" and the global recycling economy of e‐waste“, with Alison Stowell, paper presented, conference “Opening the Bin“, Helsingborg, Lund, Sweden, 29.04.2017.
-17. Laser, Stefan: “Processing electronic waste, re‐evaluating limits. Ethnographic insights from a high‐tech recycling company“, paper presented during the 4S/EASST conference “Science and technology by other means“, Barcelona, Spain, 01.09.2016.
-18. Laser, Stefan: “Evaluating electronic waste on a daily basis. Ethnographic insights from a large‐scale waste recycler and processor“, paper presented, conference “Ethnography and qualitative research“, Bergamo, 09.06.2016. 
-19. Laser, Stefan/Ochs, Carsten: Comment on Tommaso Venturini's Keynote: “Four misunderstandings about digital methods“, lecture at the 4th Workshop of the dgv‐Commission “Digitisation in everyday life“ on the theme “Digital Practices“, Frankfurt am Main, 20.02.2015.
+1. Laser, Stefan: "Rescaling the Planet Through Chips", paper presented at the Taiwan Science and Technology Studies Annual Conference, Taipei, Taiwan, 02.09.2023.
+2. Laser, Stefan/Schönbauer, Sarah: "Waste in Circulation", panel organized, Aachen, STS-Hub.de, 15.03.2023.
+3. Bogusz, Tanja/Laser, Stefan: "Circulating Experimental Knowledge: On Co-laborative stsing in the Anthropocene", panel organized, Aachen, STS-Hub.de, 17.03.2023.
+4. Çelik, Leman/Laser, Stefan/Sørensen, Estrid: "Across the Layers: Scientific Knowledge Production, Planetary Resources, and Data Centres", lecture series, Ruhr-University Bochum, winter 2022/23.
+5. Kropf, Jonathan/Laser, Stefan/Ochs, Carsten: "Shaping platforms and reflecting value conflicts in socio-digital valuation infrastructures", workshop organized, Kassel, 19./20.05.2022
+6. Laser, Stefan: "Climate on and off the railways. The railway in the ecological transformation", paper presented during the workshop "Organisation and Valuation of Sustainability", Hamburg, 5.11.2021
+7. Mewes, Julie Sascia/Kocksch, Laura/Sorensen, Estrid/Carmona, Susana C/Laser, Stefan/Galanova, Olga/Asai, Ryoko/Delgado, Abigail Nieves: Coding the RUSTlab. Discussing, writing and living an STS lab, Conference: 4S Annual Meeting 2021, Toronto, October 2021.
+8. Laser, Stefan: "Waste: On the question of value", paper presented during the workshop "The ecological question", organized by the section of Social Theory of the German Society of Sociology, Frankfurt am Main, 05.06.2020 
+9. Laser, Stefan: “Cycling on and through digital platforms, or: What happens when data centres shape the mobility of athletes?“, paper presented, 5th Energy and Society conference, Trento, 11.02.2021.
+10. Kocksch, Laura/Laser, Stefan/Pittroff, Fabian/Roschka, Jakob/Sørensen, Estrid: “Inquiring the digital interstice through a data sprint: Ethnographic research where front and back end meet“, workshop organized, conference “New Materialist Informatics“, Kassel, 22.03.2021.
+11. Laser, Stefan: “Charging the bin: Bringing energy in“, paper presented, conference “Re‐Opening the Bin“, Gothenburg, Sweden, 11.06.2021.
+12. Kocksch, Laura/Laser, Stefan/Sørensen, Estrid: “Decentring datacentres: their politics, energy, waste and epistemics“, panel organized during the EASST/4S conference: Locating and Timing Matters, Prague, Czech Republic, 19.08.2020.
+13. Laser, Stefan: “Restoring a broken landscape? A ‘pioneering model’ from the Ruhr Valley, a former coal mining hub“, paper presented during the EASST/4S conference, Prague, Czech Republic, 20.08.2020.
+14. Laser, Stefan: “On high‐tech recycling. Some lessons from a global ethnography of electronic waste“, paper presented at the Centre for Science Studies, Department of Sociology, Lancaster University, Lancaster, UK, 27.03.2019.
+15. Laser, Stefan: “Waste and globalized inequalities. The case of e‐waste“, paper presented at the Sustainability Research Network, Lancaster University, Lancaster, UK, 26.03.2019.
+16. Laser, Stefan: “Modular smartphones. Assessing a recent hype“, paper presented, EASST conference, Lancaster, UK, 27.07.2018.
+17. Laser, Stefan/Stowell, Alison: “Apple’s recycling robot "Liam" and the global recycling economy of e‐waste“, with Alison Stowell, paper presented, conference “Opening the Bin“, Helsingborg, Lund, Sweden, 29.04.2017.
+18. Laser, Stefan: “Processing electronic waste, re‐evaluating limits. Ethnographic insights from a high‐tech recycling company“, paper presented during the 4S/EASST conference “Science and technology by other means“, Barcelona, Spain, 01.09.2016.
+19. Laser, Stefan: “Evaluating electronic waste on a daily basis. Ethnographic insights from a large‐scale waste recycler and processor“, paper presented, conference “Ethnography and qualitative research“, Bergamo, 09.06.2016.
 20. Laser, Stefan: “Who Benefits from Sustainability? Analysing the Indian Politics of Electronic Waste in a Transnational Setting“, paper presented, ASNEL/GNEL and GASt conference “Postcolonial Justice“, Potsdam and Berlin, 30.05.2014. 
