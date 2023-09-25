@@ -29,8 +29,8 @@ hiddenInHomeList = true
 - Ethnography and qualitative social science research methods
 
 **Memberships**
-- Co-Editor of the journal [EASST Review]([EASST Review - EASST](https://easst.net/easst-review/))
-- Elected Board Member 2021-23: [stsing e.V. Doing STS in and through Germany.](https://stsing.org) Access Point of the working group “Tech and Infrastructure“ 
+- Co-Editor of the journal [EASST Review](https://easst.net/easst-review/)
+- Elected Board Member 2021-23: [stsing e.V. Doing STS in and through Germany.](https://stsing.org) Access Point of the working group “Tech and Infrastructure“ since 2020
 - Member of the DFG Research Network: “Valuation Studies: On the Way to the Evaluation Society?” 
 - Co-organisation of a DFG research network. [“Waste in motion: Mobilisations of waste and pollutants as a sociomaterial configurations”](https://waste-in-motion.org/)
 - Member of the [RUSTlab in Bochum](https://rustlab.ruhr-uni-bochum.de/)
@@ -43,7 +43,7 @@ hiddenInHomeList = true
 - Python: Data Science 
 - R: Data Science 
 - Gephi: Networks 
-- MaxQDA (AND Markdown): Coding 
+- MaxQDA (AND Obsidian-Markdown): Coding 
 - Markdown: Memos via Obsidian
 
 ## Education and Experience
